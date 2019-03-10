@@ -48,5 +48,5 @@
     width: 100%;
 }
 #calcElements tr:nth-child(3) input:hover ,#calcElements tr:nth-child(4) input:hover ,#calcElements tr:nth-child(5) input:hover, #calcElements tr:nth-child(5) input:hover,#calcElements tr:nth-child(6) input:hover , #calcElements tr:nth-child(7) input:hover{
-    background: #D0D3D4;
+    background: rgb(243, 19, 3);
 }
